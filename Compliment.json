@@ -1,18 +1,35 @@
 {
-  "anytime": ["Hey there sexy!"],
-  "morning": [
-    "Good morning, sunshine!",
-    "Who needs coffee when you have your smile?",
-    "Go get 'em, Tiger!"
-  ],
-  "afternoon": [
-    "Hitting your stride!",
-    "You are making a difference!",
-    "You're more fun than bubble wrap!"
-  ],
-  "evening": [
-    "You made someone smile today, I know it.",
-    "You are making a difference.",
-    "The day was better for your efforts."
-  ]
-}
+                        anytime: [
+                                "Hey there sexy!",
+                                "Chill mal", 
+                                "Bro, wo du?", 
+                                "Chill Dein Leben"
+                        ],
+                        morning: [
+                                "Good morning!", 
+                                "Enjoy your day!", 
+                                "How was your sleep?", 
+                                "Na? Gut geschlafen?",
+                                "Guten Morgen - \nwillst Du auch einen Kaffee?", 
+                                "Kaffee..! \nich brauche Kaffee..!"
+                        ],
+                        afternoon: [
+                                "You look sexy!", 
+                                "Looking good today!"
+                        ],
+                        evening: [
+                                "You look nice!", 
+                                "Hi, sexy!", 
+                                "Gute Mitarbeiter... \nsind schwer zu finden"
+                        ],
+                        "....-01-01": [
+                                "Happy new year!" 
+                        ],
+                        "....-08-23": [
+                                "Alles Gute Zum Geburtstag!"
+                        ], 
+                        ],
+                        "....-07-15": [
+                                "Alles Gute Zum Geburtstag!"
+                        ]
+  },
