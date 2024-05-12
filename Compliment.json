@@ -29,22 +29,22 @@
 		"Today is a sunny day",
 		"It's a beautiful day"
 		],
-"snow": [
+"day_cloudy": [
 		"Snowball battle!"
 		],
-"rain": [
+"cloudy": [
 		"Don't forget your umbrella"
 		],
-"snow": [
+"cloudy_windy": [
 		"Happy new year!"
 		],
-"snow": [
+"showers": [
 		"Happy Halloween!"
 		],
-"snow": [
+"rain": [
 		"Datum Test!"
 		],
-"snow": [
+"thunderstorm": [
 		"Arbeit!"
 		]
 }
