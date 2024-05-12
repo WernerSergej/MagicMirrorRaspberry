@@ -34,5 +34,17 @@
 		],
 "rain": [
 		"Don't forget your umbrella"
+		],
+"....-01-01": [
+		"Happy new year!"
+		],
+"....-10-31": [
+		"Happy Halloween!"
+		],
+"....-05-12": [
+		"Datum Test!"
+		],
+"....-05-13": [
+		"Arbeit!"
 		]
 }
