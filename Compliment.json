@@ -25,15 +25,14 @@
                 "You are making a difference.",
                 "The day was better for your efforts."
                 ],
-  
-  "day_sunny": [
-			          "Today is a sunny day",
-			          "It's a beautiful day"
-		          ],
-		"snow": [
-			          "Snowball battle!"
-		          ],
-		"rain": [
-			          "Don't forget your umbrella"
-		          ]
+"day_sunny": [
+		"Today is a sunny day",
+		"It's a beautiful day"
+		],
+"snow": [
+		"Snowball battle!"
+		],
+"rain": [
+		"Don't forget your umbrella"
+		]
 }
