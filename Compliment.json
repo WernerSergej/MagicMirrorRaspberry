@@ -30,21 +30,48 @@
 		"It's a beautiful day"
 		],
 "day_cloudy": [
-		"Snowball battle!"
+		"Day Cloudy"
 		],
 "cloudy": [
-		"Don't forget your umbrella"
+		"Cloudy"
 		],
 "cloudy_windy": [
-		"Happy new year!"
+		"Cloudy Windy"
 		],
 "showers": [
-		"Happy Halloween!"
+		"Showers"
 		],
 "rain": [
-		"Datum Test!"
+		"Don't forget your umbrella"
 		],
 "thunderstorm": [
-		"Arbeit!"
+		"Thunderstorm"
+		], 
+"snow": [
+		"Snow"
+		],
+"fog": [
+		"Fog"
+		],
+"night_clear": [
+		"Night Clear"
+		],
+"night_cloudy": [
+		"Night Cloudy"
+		],
+"night_showers": [
+		"Night Showers"
+		],
+"night_rain": [
+		"Don't forget your umbrella"
+		],
+"night_thunderstorm": [
+		"Night Thunderstorm"
+		],
+"night_snow": [
+		"Night Show"
+		],
+"night_alt_cloudy_windy": [
+		"Night Cloudy Windy"
 		]
 }
